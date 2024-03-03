@@ -2,7 +2,7 @@
 ![MasterHead](https://img.freepik.com/free-vector/team-programmers-working-program-code-with-laptops-teamwork-male-female-professional-testers-coders-flat-vector-illustration-software-development-programming-lesson-concept_74855-22051.jpg?t=st=1709445013~exp=1709448613~hmac=7a100b9b9c4ca4afb4d3279682a57033a5cd80abe580ade19c7a12d67119b7e8&w=1060)
 <h1 align="center">Hi 👋, I'm Prajjwal Shukla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codeyourcareer.com%2Fweb-development&psig=AOvVaw28G6nr-xoSlg00cVhJ5Lv1&ust=1709530981117000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDy_qmx14QDFQAAAAAdAAAAABAo" align="right" width="400"></img>
+<img src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif" align="right" width="400"/>
 
 - 🌱 I’m currently learning **React.js**
 
