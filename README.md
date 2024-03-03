@@ -17,7 +17,7 @@
 </p>
 <br/>
 <br/>
-<h2 style="width: 70%">Programming Questions Solved</h2>
+<h2 style="width: '70%'">Programming Questions Solved</h2>
 
 -  Program to Check Whether a Number is a Positive or Negative Number.<a href="https://ide.geeksforgeeks.org/online-cpp-compiler/8b8fdb38-cd63-48e4-99f6-e9cc342e99f5">Click here</a>
 
